@@ -1,2 +1,2 @@
 # hello-world
-Just a first commit
+It is a readme file just created to play around with github.
